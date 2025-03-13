@@ -10,7 +10,7 @@ I love creating dynamic, responsive, and user-friendly applications that make th
   - Frontend frameworks like React & Next.js
   - Clean coding
   - Best practices
-- Building scalable web apps
+  - Building scalable web apps
 
 - 🚀 Let's Connect:
 Feel free to reach out or collaborate on exciting projects!
