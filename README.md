@@ -23,7 +23,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me:</h3>
-I'm a passionate student Web Developer with a keen interest in all things related to Web Technologies! 🌐 I love creating dynamic, responsive, and user-friendly applications that make the web a better place. From front-end to back-end, I'm always learning and exploring new tools, frameworks, and techniques to build efficient and scalable solutions.
+I'm a passionate Web Developer with a keen interest in all things related to Web Technologies! 🌐 I love creating dynamic, responsive, and user-friendly applications that make the web a better place. From front-end to back-end, I'm always learning and exploring new tools, frameworks, and techniques to build efficient and scalable solutions.
 
 ###
 
