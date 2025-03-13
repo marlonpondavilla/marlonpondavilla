@@ -65,7 +65,7 @@ I'm a passionate student Web Developer with a keen interest in all things relate
 ###
 
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlonpondavilla&show_icons=true&locale=en&layout=compact" alt="marlonpondavilla" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marlonpondavilla&show_icons=true&locale=en&layout=compact" alt="marlonpondavilla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marlonpondavilla&show_icons=true&locale=en" alt="marlonpondavilla" /></p>
 
