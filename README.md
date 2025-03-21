@@ -23,7 +23,7 @@
 ###
 
 # 💫 About Me:
-🔭 I’m currently working on:<br><b>SmartCare</b>, a prescription management and notification system for my Capstone Project.<br><br>👯 I’m looking to collaborate on:<br>Agile Web development<br><br>🌱 I’m currently learning:<br>Next.js, Tailwind CSS, Supabase<br><br>💬 Ask me about:<br>Frontend frameworks like React & Next.js, Clean code, MVC architecture, OOP, and Best practices<br><br>⚡ Fun fact:<br>I'm an ambivert!
+🔭 I’m currently working on:<br><b>SmartCare</b>, a prescription management and notification system for my Capstone Project.<br><br>👯 I’m looking to collaborate on:<br>Agile development<br><br>🌱 I’m currently learning:<br>Next.js, Tailwind CSS, Supabase<br><br>💬 Ask me about:<br>Frontend frameworks like React & Next.js, Clean code, MVC architecture, OOP, and Best practices<br><br>⚡ Fun fact:<br>I'm an ambivert!
 
 
 ## 🌐 Socials:
