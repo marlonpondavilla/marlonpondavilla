@@ -23,7 +23,7 @@
 ###
 
 # 💫 About Me:
-🔭 I love to explore different technologies and frameworks for the web. Feel free to ask some noob questions with regard to software development!
+🔭 I love to explore different <b>technologies</b>, <b>frameworks</b>, and <b>architecture</b> for the web. Feel free to ask some noob questions with regard to software development!
 
 
 ## 🌐 Socials:
