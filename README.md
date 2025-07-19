@@ -22,13 +22,6 @@
 
 ###
 
-# 💫 About Me:
-🔭 I love to explore different <b>technologies</b>, <b>frameworks</b>, and <b>architecture</b> for the web. Feel free to ask some noob questions with regard to software development!
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrln.pnd) 
-
 # 💻 Tech Stack:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
